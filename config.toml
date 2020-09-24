@@ -1,0 +1,4 @@
+baseURL = "https://castaneai.github.io/"
+languageCode = "ja-jp"
+title = "castaneai hugo test"
+theme = "ananke"
